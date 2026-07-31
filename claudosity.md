@@ -6,4 +6,4 @@ After *verbosity* (< Latin *verbum*, "word"), by substitution of the stem.
 
 **2.** *(count noun, informal)* A discrete instance of same. "There are four claudosities in the PR description Claude wrote, three of them in the title."
 
-Derived: **overclaudose**; **subclaudose** (rare, aspirational).
+Derived: **overclaudose**; **subclaudose** (rare, aspirational). Compare *circumclaudition*, which is claudosity with a trajectory.
